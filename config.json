@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/pharmacy",
+    "proud_uri": "mysql://root:@localhost/pharmacy",
+    "fb_url":"https://www.instagram.com/.cherry.?igsh=M3N5eHhjeTNrbzh4",
+    "tw_url":"https://x.com/Rishi_Cherry27?t=x_kKT3kEj8xPJ7sWtJzdQg&s=08/",
+    "blog_name": "Rx PHARMA",
+    "headname": "PHARMACY SUPPLY MANAGEMENT",
+    "user": "Rishi",
+    "password": "@Rishi8971",
+    "login_image": "Rx.jpg"
+
+  }
+}
